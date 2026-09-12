@@ -35,4 +35,3 @@ Experienced leader specializing in designing, scaling, and operationalizing digi
 
 * **LinkedIn:** [linkedin.com/in/jpgarciag](https://www.linkedin.com)
 * **Location:** Mexico City, Mexico
-
